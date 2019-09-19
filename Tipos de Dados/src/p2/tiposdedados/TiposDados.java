@@ -1,3 +1,4 @@
+package p2.tiposdedados;
 class Motor{
 	
 }
