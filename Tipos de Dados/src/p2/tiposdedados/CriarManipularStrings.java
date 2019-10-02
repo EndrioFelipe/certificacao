@@ -148,7 +148,7 @@ public class CriarManipularStrings {
 		System.out.println("Vou jogar bola hoje à noite jogar".startsWith("vou"));//false
 		//é case sensitive
 		System.out.println("Vou jogar bola hoje à noite jogar".startsWith("jogar"));//false
-		System.out.println("Vou jogar bola hoje à noite jogar".endsWith("jogar"));//true
+		System.out.println("Vou jogar bola hoje à noite jogar".endsWith(""));//true
 		
 		
 	}
